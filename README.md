@@ -13,7 +13,7 @@ This project involves analyzing a given sales dataset to extract valuable insigh
 
 - Build an interactive dashboard using Streamlit.
 
-- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Python
 
@@ -25,7 +25,7 @@ This project involves analyzing a given sales dataset to extract valuable insigh
 
 - Streamlit
 
-- ## 🧭 Expected Insights
+## 🧭 Expected Insights
 
 - Total Revenue : Calculate overall revenue from sales.
 
